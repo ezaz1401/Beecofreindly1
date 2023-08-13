@@ -1,0 +1,28 @@
+p{
+    color:green;
+    font-size: x-large;
+    font-family: cursive;
+}
+li{
+    color:grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+
+}
+#pid{
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:grey;
+}
+a{
+    text-decoration:none;
+}
+#id2{
+    text-decoration: wavy green underline;
+    
+}
+
+body{
+    background-image:url(prop3.png);
+}
