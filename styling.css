@@ -1,0 +1,30 @@
+*{
+    font-family:Arial;
+    background-color:white;
+   
+#navbar{
+    color:white;
+    background-color:grey;
+    font-size:x-large;
+    width:100%;
+    height:100px;
+    margin:auto;
+    overflow:hidden;
+}
+
+#linkinging{
+    color:grey;
+    Display:flex;
+    font-size:small;
+    text-decoration:none;
+   
+}
+
+#sstyle{
+    color:orange;
+}
+
+.nvlin{
+    width:100%;
+    height:30px;
+}
